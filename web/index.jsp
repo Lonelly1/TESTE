@@ -6,7 +6,7 @@
 <html>
     <head>        
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>CONTROLE DE LIVROS</title>
+        <title>CONTROLE DE sdasdsadsadsad</title>
     </head>
     <body> 
          <form action="index.jsp" method="post">
